@@ -1,5 +1,5 @@
 # GOT Build on GitHub
-This is a project learning to use multidimensional arrays.
+This is a project about learning how to use multidimensional arrays.
 
 ## Installation
 IMPORTANT: Import the videos files.
